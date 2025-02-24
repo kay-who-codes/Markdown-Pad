@@ -1,8 +1,8 @@
-# Markdown Previewer
+# 🔠 Markdown Pad
 
 A simple browser app that allows you to write markdown text on the left side and see the rendered output in real-time on the right side.
 
-[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/markdown-previewer)
+[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Markdown-Pad)
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple browser app that allows you to write markdown text on the left side and
 
 ## Usage
 
-1. Open the app in a browser - **[LINK TO THE APP](https://kay-who-codes.github.io/markdown-previewer)**.
+1. Open the app in a browser - **[LINK TO THE APP](https://kay-who-codes.github.io/Markdown-Pad)**.
 2. Start typing markdown in the left pane (editor).
 3. Watch the rendered output appear in real-time on the right pane (preview).
 4. Use common markdown syntax to format your text (e.g., `#` for headings, `*` for lists, etc.).
